@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
 #  - {file: "/CV.pdf", title: "CV", title: "About me", icon: address-card}
-  - {title: "CV", url: "https://docs.google.com/viewer?url=${https://github.com/denawk/denawk.github.io/blob/master/assets/CV.pdf"}}
+  - {title: "CV", url: "https://github.com/denawk/denawk.github.io/blob/master/assets/CV.pdf"}
   - {file: "README.md", title: "About me"}
   - {title: "Bing", url: "https://bing.com"}
   - {title: "Blog", file: "blog.md"}
