@@ -22,4 +22,9 @@ p3
 </p>
 
 
+p4
+<p>
+  <object data="{{https://denawk.github.com/denawk.github.io}}/assets/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+</p>
+
 This is the end
