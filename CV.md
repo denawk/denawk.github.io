@@ -18,13 +18,13 @@ p2
 
 p3
 <p>
-  <embed src="https://denawk.github.io/CV.pdf" type="application/pdf"/>
+  <embed src="https://denawk.github.io/CV.pdf" width="500" height="500" type="application/pdf"/>
 </p>
 
 
 p4
 <p>
-  <object data="{{https://denawk.github.com/denawk.github.io}}/assets/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+  <object data="{{https://denawk.github.com/denawk.github.io}}/assets/CV.pdf" width="800" height="800" type="application/pdf"></object>
 </p>
 
 This is the end
