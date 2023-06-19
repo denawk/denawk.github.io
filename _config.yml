@@ -22,6 +22,19 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Bing", url: "https://bing.com"}
   - {title: "Blog", file: "blog.md"}
 
+## List of links in the navigation bar
+# navbar-links:
+#  Moi: "aboutme"
+#  Projects:
+#    - Hell Game: "http://deanattali.com/beautiful-jekyll/"
+#    - Success City: "http://www.markdowntutorial.com/"
+#  Resume: "Tech Resume.pdf"
+
+## javascript to accomplish same as above (open file in new window/tab)
+# {% include new-window-fix.html %}
+# </body>
+# </html>
+
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:denawk.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/denawk/"}
