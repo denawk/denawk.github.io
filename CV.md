@@ -17,11 +17,8 @@ p2
 
 
 p3
-</p>
-
 <p>
-
-  
+  <embed src"https://denawk.github.io/CV.pdf" type="application/pdf"/>
 </p>
 
 
