@@ -22,6 +22,10 @@ movie
 ![winnie](/assets/IMG.7246.MOV)
 
 
-youtube 
-[//]: (o4MJlngHHWg, sXNxSYZOWBM)
+youtube
+{% comment %}
+  This is a block comment in Liquid
+  o4MJlngHHWg, sXNxSYZOWBM
+{% endcomment %}
+
 {% include youtube.html id="o4MJlngHHWg" %}
