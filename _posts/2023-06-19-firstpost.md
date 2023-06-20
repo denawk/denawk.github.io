@@ -24,8 +24,8 @@ movie
 
 youtube
 {% comment %}
-  This is a block comment in Liquid
-  o4MJlngHHWg, sXNxSYZOWBM
+  { % This is a block comment in Liquid % }
+  { % o4MJlngHHWg, sXNxSYZOWBM % }
 {% endcomment %}
 
 {% include youtube.html id="o4MJlngHHWg" %}
