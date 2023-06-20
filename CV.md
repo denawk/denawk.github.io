@@ -18,7 +18,7 @@ p2
 
 p3
 <p>
-  <embed src="https://denawk.github.io/CV.pdf" width="500" height="500" type="application/pdf"/>
+  <embed src="https://denawk.github.io/assets/CV.pdf" width="500" height="500" type="application/pdf"/>
 </p>
 
 
