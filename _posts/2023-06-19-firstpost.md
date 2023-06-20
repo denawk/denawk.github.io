@@ -17,3 +17,6 @@ google link
 
 bball
 ![bball](/assets/IMG-6799.jpg)
+
+movie
+![winnie](/assets/IMG.7246.MOV)
