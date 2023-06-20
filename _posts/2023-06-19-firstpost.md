@@ -13,4 +13,7 @@ categories:
 other text.
 
 google link
-[link](https;//google.com)
+![link](https;//google.com)
+
+bball
+![bball](/assets/IMG-6799.jpg)
