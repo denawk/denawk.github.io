@@ -30,4 +30,4 @@ youtube
 
 {% include youtube.html id="o4MJlngHHWg" %}
 
-<p>this line added from iphone githum</p>
+<p>this line added from iphone github</p>
